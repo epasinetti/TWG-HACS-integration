@@ -22,4 +22,5 @@ Connettersi al broker locale o pubblico di HA
 
 ## Topic da utilizzare 
 Topic inbound : twg/comandi
+
 Topic measure : twg/dati
