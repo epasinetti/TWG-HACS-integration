@@ -15,4 +15,11 @@ Impostazioni → Dispositivi e servizi → Aggiungi integrazione
 ## Entità supportate
 - Sensor
 - Binary Sensor
-- Switch"# TWG-HACS-integration" 
+- Switch"# TWG-HACS-integration"
+
+## Connessione al broker di HA
+Connettersi al broker locale o pubblico di HA
+
+## Topic da utilizzare 
+Topic inbound : twg/comandi
+Topic measure : twg/dati
